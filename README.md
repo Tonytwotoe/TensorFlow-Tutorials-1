@@ -4,6 +4,13 @@
 
 Original author is [Magnus Erik Hvass Pedersen](http://www.hvass-labs.org)
 
+## Notes and Thanks by @vrbsky
+Let me add a great thank you to the aforementioned author. This is one of the best ML/TensorFlow tutorials I have seen so far. Thanks!
+
+My intention with this (cloned) repository is to re-write the code so that I better understand what is going on, experiment and learn more. This is because the original notebooks are already filled in.
+
+Cloned from original repo on 07/27/2018, original repo commit ID: 8d2e0ee
+
 ## Introduction
 
 * These tutorials are intended for beginners in Deep Learning and TensorFlow.
